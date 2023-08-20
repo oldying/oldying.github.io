@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://blog.loyin.top/2023/07/14/phprobot-list/</loc>
+    <lastmod>2023-07-14</lastmod>
+  </url>
+  <url>
     <loc>http://blog.loyin.top/2023/07/04/php-array-01/</loc>
     <lastmod>2023-07-08</lastmod>
   </url>
